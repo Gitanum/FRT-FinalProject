@@ -18,3 +18,6 @@ Here i have created a website where people can book Dental checkup appointments 
 
 ## Services Page
 ![Screenshot (10)](https://user-images.githubusercontent.com/91246832/183626073-477e051a-f1d5-4315-ade9-a0351771608f.png)
+
+## Azure Portal Screenshot
+![Screenshot (12)](https://user-images.githubusercontent.com/91246832/183799191-66d038c7-4459-4bff-9eb3-1b7d90503beb.png)
